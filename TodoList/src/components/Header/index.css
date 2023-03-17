@@ -1,0 +1,18 @@
+.cs-form-x{
+    display: flex;
+    justify-content: center;
+    margin:5px 10px;
+}
+.cs-form-input{
+    display: inline-flex;
+    width:480px;
+    margin:5px;
+    height:32px;
+    border:1px solid lightblue;
+    outline:none;
+    border-radius:5px;
+    box-sizing: border-box ;
+}
+.cs-form-input:focus{
+    border:1px solid blue;
+}

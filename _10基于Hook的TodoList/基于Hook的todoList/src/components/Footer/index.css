@@ -1,0 +1,23 @@
+.cs-footer-x{
+    display:flex;
+    flex-direction: row;
+    margin:10px 0;
+}
+.cs-footer-check{
+    height:15px;
+    width:15px;
+    margin:7.5px
+}
+.cs-footer-statistic{
+    width:300px;
+    height:15px;
+    margin:7.5px;
+}
+.cs-footer-deleteAll{
+    height:30px;
+    width:100px;
+    background-color:indianred;
+    color:white;
+    border:1px solid lightcoral;
+    border-radius:5px;
+}

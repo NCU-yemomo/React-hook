@@ -1,0 +1,6 @@
+.cs-List-x{
+    border-bottom:1px dashed black;
+    max-height:500px;
+    margin:10px;
+    overflow:auto;
+}

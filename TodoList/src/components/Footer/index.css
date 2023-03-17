@@ -1,0 +1,28 @@
+.cs-footer-x{
+    display:flex;
+    width:480px;
+    margin:10px;
+    justify-content: space-between;
+    height:30px;
+}
+.cs-footer-form{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width:280px;
+    height:30px;
+}
+.cs-footer-p{
+    margin:0px;
+    line-height: 30px;
+}
+.cs-footer-button{
+    display:inline-block;
+    height:30px;
+    width:120px;
+    border:1px solid white;
+    color:white;
+    background:linear-gradient(to right,#d58071,rgb(217, 118, 105));
+    border-radius: 10px;
+    display:none;
+}

@@ -1,0 +1,21 @@
+html,body{
+    height:100%
+}
+.cs-App-x{
+    width:500px;
+    height:650px;
+    background-color:white;
+    display:flex;
+    flex-direction:column;
+}
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: cornsilk;
+}
+#root{
+    width:500px;
+    height:650px;
+    background-color:white;
+}

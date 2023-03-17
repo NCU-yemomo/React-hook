@@ -1,0 +1,6 @@
+const INCREMENT="increment";
+const DECREMENT="decrement";
+const INCREMENT_BY_AMOUNT="incrementByAmount";
+const DECREMENT_BY_AMOUNT="decrementByAmount";
+const INCREMENT_BY_AMOUNT_ASYNC="incrementByAmountAsync";
+export {INCREMENT,DECREMENT,INCREMENT_BY_AMOUNT,DECREMENT_BY_AMOUNT,INCREMENT_BY_AMOUNT_ASYNC}

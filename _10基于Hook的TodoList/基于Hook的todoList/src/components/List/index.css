@@ -1,0 +1,12 @@
+.cs-list-x{
+    display:flex;
+    flex-direction:column;
+    justify-content: flex-start;
+    width:500px;
+    height:500px;
+    border:1px solid #ccc;
+    border-radius:6px;
+    overflow-y:scroll;
+    overflow-x:hidden;
+    box-sizing:border-box;
+}

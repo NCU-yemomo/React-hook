@@ -1,0 +1,23 @@
+.cs-todo-x{
+    display:flex;
+    flex-direction:row;
+    height:30px;
+    border-top:1px solid black;
+    border:15px;
+}
+.cs-todo-check{
+    height:15px;
+    width:15px;
+    margin:5px
+}
+.cs-todo-value{
+    width:300px;
+    text-align: start;
+    font-weight: 12px;
+    margin:5px;
+}
+.cs-todo-delete{
+    height:30px;
+    width:75px;
+    margin-left:15px;
+}

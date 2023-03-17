@@ -1,0 +1,16 @@
+body,html{
+    height:100%;
+}
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.cs-todoList-x{
+    margin:auto;
+    height:800px;
+    width:500px;
+    padding:10px;
+    display:flex;
+    flex-direction: column;
+}

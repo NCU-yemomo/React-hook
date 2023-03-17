@@ -1,0 +1,37 @@
+.cs-todo-list{
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width:auto;
+    margin:10px;
+    overflow: auto;
+}
+.cs-todo{
+    display: flex;
+    flex-direction: row;
+    margin:10px;
+    width:auto;
+    height:30px;
+    justify-content: flex-start;
+    align-items: center;
+}
+/* .cs-todo:hover{
+    background: #f5f5f5;
+}
+.cs-todo:hover > .cs-todo-button{
+    display:inline-block;
+} */
+.cs-todo-p{
+    width:350px;
+    margin:0px;
+}
+.cs-todo-button{
+    height:28px;
+    width:75px;
+    background:linear-gradient(to right,#d58071,rgb(217, 118, 105));
+    border:1px solid red;
+    color:white;
+    border-radius: 5px;
+    font-size: 16px;
+    display:none;
+}
